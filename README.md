@@ -1,0 +1,1 @@
+"# Ultra Naive Mundial Predictor" 
